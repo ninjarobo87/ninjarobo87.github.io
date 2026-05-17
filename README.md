@@ -42,11 +42,11 @@ Lead Technology Analyst
 01/2021 – 12/2025  
 Designed Human-in-the-Loop (HITL) workflows using Interrupt & Resume patterns for high-stakes financial approvals, ensuring 100% compliance
 Implemented Chain-of-Thought (CoT) and ReAct reasoning patterns to improve agent decision-making accuracy by 97%
-Established AI Evaluation (Eval) frameworks using Precision, Recall, and F1 scores to monitor agent trajectories and reduce hallucinations.
+Established AI Evaluation (Eval) frameworks using Precision, Recall, and F1 scores to monitor agent trajectories and reduce hallucinations
 Developed a Multi-Agent System (MAS) for Global KPI reporting where specialized 
 agents performed automated data retrieval and hypothesis validation, 
 reducing manual effort by 70%
-AI Implementation: Leveraged 1 year of hands-on Prompt Engineering experience 
+AI Implementation: Leveraged 2 year of hands-on Prompt Engineering experience 
 to optimize AI model output, enhancing automated decision-making and content generation.
 Designed and deployed RAG pipelines including chunking, embedding, and retrieval optimization
 Built LLM orchestration pipelines integrating APIs and multi-agent workflows
