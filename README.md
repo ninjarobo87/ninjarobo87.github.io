@@ -37,7 +37,7 @@ Supply Chain & Logistics AI: Designing autonomous supply chain solutions utilizi
 WORK EXPERIENCE  
  
  
-DIENSTEN TECH LTD. (formerly JK Techno soft Pvt Ltd)/ DBSCHENKER,  
+DIENSTEN TECH LTD. (formerly JK Techno soft Pvt Ltd)/ DBSCHENKER
 Lead Technology Analyst  
 01/2021 – 12/2025  
 Designed Human-in-the-Loop (HITL) workflows using Interrupt & Resume patterns for high-stakes financial approvals, ensuring 100% compliance
@@ -70,7 +70,7 @@ Technical Specialist (RPA Developer)
  
 Automated Outward Remittance & Branch Transfer workflows, reducing turnaround time by 
 60%. Built scalable automation solutions integrated with Tungsten Automation / Kofax Total Agility for financial data validation. Conducted RPA feasibility assessments and created reusable automation components. Trained teams in Tungsten Automation / Kofax RPA, leading internal 
-RPA capability development. Installed and maintained Tungsten Automation / Kofax RPA (Kapow) 10.5/10.6 environments. Delivered automation that saved 8 FTEs annually. Reduced financial transaction errors by 35% with automated validations. Created reusable snippets, reducing development time by 25%.  
+RPA capability development. Installed and maintained Tungsten Automation / Kofax RPA (Kapow) 10.5/10.6 environments. Delivered automation that saved 8 FTEs annually. Reduced financial transaction errors by 35% with automated validations. Created reusable snippets, reducing development time by 25%  
  
 InfoZech Software Pvt Ltd,  
 Senior Software Engineer  
